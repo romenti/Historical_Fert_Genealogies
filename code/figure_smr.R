@@ -171,7 +171,7 @@ plot_TFR_final = plot_TFR/legend_grob+
   plot_layout(heights = c(10, 2))  
 
 
-ggsave('figure/Figure4.pdf',plot_TFR_final,height = 30, width = 50, units = "cm")
+ggsave('figures/Figure4.pdf',plot_TFR_final,height = 30, width = 50, units = "cm")
 
 
 #### Figure 5 ####
@@ -218,6 +218,6 @@ bias_plot = mcmc.out_theta_final %>%
   facet_wrap(~country,nrow=2)
 
 
-ggsave('figure/Figure5.pdf',bias_plot,height = 30, width = 50, units = "cm")
+ggsave('figures/Figure5.pdf',bias_plot,height = 30, width = 50, units = "cm")
 
 

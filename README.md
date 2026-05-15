@@ -8,6 +8,22 @@ This repository contains code and materials to replicate the paper "Bayesian Ind
 
 **Abstract**: A growing number of social scientists use online genealogical data as an alternative digital census of historical populations to study past demographic dynamics. However, the non-representativeness of this data source requires the development of bias-adjusting methods to obtain accurate demographic estimates. We address this challenge by proposing an indirect estimation framework to investigate fertility trends in seven European countries and the United States of America for the historical period 1751-1910, integrating data from the big genealogical database FamiLinx with more conventional data sources. The proposed methods allow for the indirect estimation of the total fertility rate using the number of women aged 15-49 and children under age 5, while accounting for child mortality, age-specific fertility patterns, and biases. Our methodological approaches demonstrate that, when combined with reliable demographic data, online genealogical data can be fruitfully used to examine fertility patterns in countries and periods lacking well-functioning national civil registration systems.
 
+
+### Authors
+
+- [Riccardo Omenti](https://romenti.github.io/)
+- [Monica Alexander](https://monicaalexander.com/)
+- [Nicola Barban](https://nicolabarban.com/)
+
+### Structure of the folder
+
+
+### Replication
+
+All analyses and computations were carried out on 2023 MacBook Pro with an Apple M5 Pro chip, 24 GB memory. All analyses were originally conducted using R version 4.5.3 and the package versions recorded in the attached session info at the bottom of the README. 
+Re-running the pipeline with updated R or package versions, or a different seed, may yield minor numerical differences. These do not affect the paper’s results or conclusions.
+
+
 ## Session Info
 
 ```
