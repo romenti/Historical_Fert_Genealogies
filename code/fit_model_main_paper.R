@@ -125,6 +125,8 @@ mcmc.out_TFR_final$country = rep(c("SWE","ENG","FRA",
 # Extract theta posterior estimates (log-scale)
 
 
+
+
 mcmc.out_theta_final = MCMCsummary(
   chain_results,
   params = "theta",
