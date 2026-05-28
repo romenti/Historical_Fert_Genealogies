@@ -18,7 +18,7 @@ This repository contains code and materials to replicate the paper "Bayesian Ind
 ### Structure of the folder
 This repository contains the code required to replicate all figures and tables presented in the main paper. To reproduce the analyses, follow the steps below:
 
-- Download all data sources into the `data` folder. Most .RData files are available directly in the GitHub repository, while larger datasets are stored in the compressed `data.zip` folder available through the Open Science Framework repository.
+- Download all data sources into the `data` folder. Most .RData files are available directly in the GitHub repository, while larger datasets are stored in the compressed `zenodo_repo.zip` folder available through the Zenodo.
 
 - The `code` folder contains all R scripts required to replicate the analyses and results presented in the paper.
 
