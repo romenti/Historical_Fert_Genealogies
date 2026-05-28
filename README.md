@@ -1,6 +1,6 @@
 ## Bayesian Indirect Estimation of Historical Fertility in Europe and US Using Online Genealogical Data
 
-[![OSF](https://img.shields.io/badge/OSF-project-blue)](https://osf.io/bpnyz/overview)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15047102.svg)](https://zenodo.org/records/20423970)
 [![Generic badge](https://img.shields.io/badge/R-4.5.3-orange.svg)](https://cran.r-project.org/bin/macosx/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
